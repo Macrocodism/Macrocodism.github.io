@@ -1,2 +1,12 @@
-# Macrocodism.github.io
-# Hello my name is james open brackets help close bracket
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Odin Links and Images</title>
+  </head>
+
+  <body>
+    <h1>About Page</h1>
+  </body>
+</html>
+
