@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>Odin Links and Images</title>
-  </head>
-
-  <body>
-    <h1>About Page</h1>
-  </body>
-</html>
-
+<img src="https://buffer.com/library/content/images/size/w1200/2023/10/free-images.jpg">
